@@ -4,7 +4,7 @@ In the pursuit of advancing fraud detection methodologies, having access to comp
 
 # End Dataset Source
 Beside the origin of dataset, we collected the dataset from Kaggle.com and has been preprocessed for research purposes. The dataset includes synthetic transaction that replicates the normal transaction.
-dataset is bigger than 25 MB that's here are the links to get the dataset,
+dataset is bigger than 25 MB that's why here are the links to get the dataset,
 dataset link: https://www.kaggle.com/code/imranp/starter-synthetic-financial-datasets-cd6449a6-6/input?select=PS_20174392719_1491204439457_log.csv,
 download dataset: https://we.tl/t-pONY6RBnVX
 
